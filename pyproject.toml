@@ -1,0 +1,7 @@
+[project]
+name = "100knock-demo"
+version = "0.1.0"
+description = "100本ノックを管理するリポジトリ"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
